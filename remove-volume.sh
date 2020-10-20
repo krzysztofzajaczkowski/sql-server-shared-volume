@@ -1,0 +1,1 @@
+docker volume rm data-warehouses-sql_data

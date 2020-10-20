@@ -1,0 +1,1 @@
+docker container rm data-warehouses-sql
