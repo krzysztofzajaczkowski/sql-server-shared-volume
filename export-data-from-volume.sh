@@ -1,0 +1,1 @@
+docker cp data-warehouses-sql:/var/opt/mssql/. data/
